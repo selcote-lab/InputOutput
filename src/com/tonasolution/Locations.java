@@ -10,29 +10,28 @@ import java.util.Set;
 public class Locations implements Map<Integer, Location> {
     private static Map<Integer, Location> locations = new HashMap<Integer, Location>();
 
-    public static void main(String[] args) {
-        FileWriter localFile = null;
-        try {
-            localFile = new FileWriter("Locations.txt");
+    public static void main(String[] args) throws IOException{
+
+        try(FileWriter localFile = new FileWriter("Locations.txt")){
             for (Location location: locations.values()){
                 localFile.write(location.getLocationID() + " , " + location.getDescription() + "\n");
             }
-
-        } catch (IOException e){
-            System.out.println("In catch block");
-            e.printStackTrace();
-        } finally {
-            System.out.println("in finally block");
-            try{
-                if( localFile != null ){
-                    System.out.println("Attempting to close");
-                    localFile.close();
-                }
-            } catch (IOException e){
-                System.out.println("An error foudn while closing the file");
-                e.printStackTrace();
-            }
         }
+//        FileWriter localFile = null;
+//        try {
+//            localFile = new FileWriter("Locations.txt");
+//            for (Location location: locations.values()){
+//                localFile.write(location.getLocationID() + " , " + location.getDescription() + "\n");
+//                throw new IOException("Test exception thrown while writing");
+//            }
+//        } finally {
+//            System.out.println("in finally block");
+//
+//            if( localFile != null ){
+//                System.out.println("Attempting to close");
+//                localFile.close();
+//            }
+//        }
     }
     static {
         Map<String, Integer> tempExit = new HashMap<String, Integer>();
