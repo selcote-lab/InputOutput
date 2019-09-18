@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="e2777de6-3675-46dd-82b7-b23c4c17f453" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Locations.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Locations.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/InputOutput/com/tonasolution/Locations.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/InputOutput/com/tonasolution/Locations.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/tonasolution/Locations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tonasolution/Locations.java" afterDir="false" />
     </list>
