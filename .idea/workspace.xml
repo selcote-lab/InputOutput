@@ -2,9 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e2777de6-3675-46dd-82b7-b23c4c17f453" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/directions_big.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/locations.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/locations_big.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Locations.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Locations.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Locations.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/directions.txt" beforeDir="false" afterPath="$PROJECT_DIR$/directions.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/InputOutput/com/tonasolution/Location.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/InputOutput/com/tonasolution/Location.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/InputOutput/com/tonasolution/Locations.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/InputOutput/com/tonasolution/Locations.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tonasolution/Location.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tonasolution/Location.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/tonasolution/Locations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tonasolution/Locations.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,10 +32,11 @@
   <component name="ProjectId" id="1R0TOwMWXlOKZ9TK0XKcd1Uc3sZ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/tonasolution" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\jee-workspace\InputOutput" />
       <recent name="D:\jee-workspace\InputOutput\src\com\tonasolution" />
     </key>
   </component>
@@ -98,7 +105,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
