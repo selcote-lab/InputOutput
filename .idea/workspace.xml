@@ -2,15 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e2777de6-3675-46dd-82b7-b23c4c17f453" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/directions_big.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/locations.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/locations_big.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Locations.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/directions.txt" beforeDir="false" afterPath="$PROJECT_DIR$/directions.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/InputOutput/com/tonasolution/Location.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/InputOutput/com/tonasolution/Location.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/InputOutput/com/tonasolution/Locations.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/InputOutput/com/tonasolution/Locations.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tonasolution/Location.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tonasolution/Location.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/tonasolution/Locations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tonasolution/Locations.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
